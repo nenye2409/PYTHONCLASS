@@ -1,0 +1,6 @@
+Interest = 5/100
+Deposit = 1000
+n_years = 3
+Cal = Interest * Interest * n_years
+print(Cal)
+print(f'${Cal}')
